@@ -20,12 +20,12 @@ This project is a web application that predicts software developer salaries base
 ## Screenshots
 
 **Explore Page**
-![Pie Chart](screenshots\explore_page_1.png)
-![Bar Chart and Line Chart](screenshots\explore_page_2.png)
+![Pie Chart](screenshots/explore_page_1.png)
+![Bar Chart and Line Chart](screenshots/explore_page_2.png)
 
 **Predict Page**
-![Before Prediction](screenshots\predict_page_1.png)
-![After Prediction](screenshots\predict_page_2.png)
+![Before Prediction](screenshots/predict_page_1.png)
+![After Prediction](screenshots/predict_page_2.png)
 
 ## Methodology
 
