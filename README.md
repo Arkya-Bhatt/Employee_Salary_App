@@ -1,4 +1,4 @@
-# Software Developer Salary Prediction Web App
+# Employee Salary Prediction Web App
 
 This project is a web application that predicts software developer salaries based on data from the Stack Overflow Developer Survey 2020. It also provides an interactive data exploration page to visualize salary trends across different countries and experience levels.
 
